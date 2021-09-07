@@ -4,7 +4,7 @@
     <string name="opcion3">Manipulando elementos por codigo</string>
     <string name="opcion4">Recycler View</string>
     <string name="Salir">Salir</string>
-    <string name="tituloAplicacion">Mi primera app</string>
+    <string name="tituloAplicacion">Mi app en Git</string>
     <string name="app_name">Mi Gran Parte</string>
     <string name="action_settings">Configuración</string>
     <string name="opcion5">Mi Spinner</string>
